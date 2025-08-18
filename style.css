@@ -327,3 +327,22 @@ ul {
     padding-bottom: 20px;
 }
 
+/* footer */
+footer{
+    display: flex;
+    justify-content: space-around;
+    padding: 45px 0;
+    margin: 50px;
+    background-color: #f2f2f2;
+}
+.footer-section{
+    display: flex;
+    flex-direction: column;
+}
+.footer-section a{
+    margin: 15px 0;
+}
+
+
+
+
