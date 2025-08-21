@@ -110,6 +110,10 @@ input::placeholder {
 
 }
 
+.fa-solid.fa-magnifying-glass {
+    display: none;
+}
+
 .filtres {
     margin: 40px 50px;
     display: flex;
